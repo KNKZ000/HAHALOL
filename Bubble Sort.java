@@ -23,3 +23,6 @@ public class Main
 		System.out.printf("%d ",a[i]);
 	}
 }
+
+
+// O (N^2)
